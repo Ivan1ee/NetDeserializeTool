@@ -1,5 +1,5 @@
 # NetDeserializeTool
-.net反序列化课程中提到的漏洞检测工具 ，目前支持四种反序列化漏洞检测（jsonnet , fastjson , javascriptserializer , netdatacontractserializer），学习研究为目的，希望不要滥用它。
+.net反序列化课程中提到的漏洞检测工具 ，目前支持四种反序列化漏洞检测（jsonnet , fastjson , javascriptserializer , netdatacontractserializer），学习研究为目的，希望不要滥用它，由于工具还在不断完善中，笔者决定暂时不提供出来 :)
 
 ## 使用方法
 
