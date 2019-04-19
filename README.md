@@ -2,7 +2,7 @@
 .net反序列化课程中提到的漏洞检测工具 ，目前支持四种反序列化漏洞检测（jsonnet , fastjson , javascriptserializer , netdatacontractserializer ,objectstateformatter , losformatter）
 
 
-# 以学习研究、安全业务的需求为目的，杜绝一切非法操作。
+# 免责声明：项目所有资源仅以学习研究、自身安全业务的需求为目的，杜绝一切非法操作。
 
 
 ## 使用方法
